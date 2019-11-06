@@ -39,8 +39,7 @@
   },
   "dependencies": {
     "asynckit": "^0.4.0",
-    "combined-stream": "^1.0.8",
-    "mime-types": "^2.1.12"
+    "combined-stream": "^1.0.8"
   },
   "devDependencies": {
     "@types/node": "^12.0.10",
